@@ -1,0 +1,24 @@
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATM Machine Project.vcxproj.AssemblyReference.cache
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATM Machine Project.exe
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.MainGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATM Machine Project.vcxproj.GenerateResource.cache
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.WithdrawGUIform.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATM Machine Project.vcxproj.CopyComplete
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\MySql.Data.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\Google.Protobuf.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ZstdNet.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\Ubiety.Dns.Core.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\System.Memory.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\System.Buffers.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\K4os.Compression.LZ4.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\K4os.Hash.xxHash.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\System.Numerics.Vectors.dll
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\MySql.Data.xml
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.DepositGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.BalanceGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.LoginGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.FundTransferGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.RegisterGUI.resources
+C:\Users\Gabriel\Desktop\ATM Machine Project\Debug\ATMMachineProject.PINChange.resources
